@@ -1,7 +1,6 @@
 # NightPass – A Survival Card Game Simulation
 
-NightPass is a card-based survival game simulation developed as part of **CMPE250 – Data Structures and Algorithms**.  
-The project focuses on algorithmic decision-making, data structure design, and performance under large-scale input constraints.
+NightPass is a card-based survival game simulation which focuses on algorithmic decision-making, data structure design, and performance under large-scale input constraints.
 
 ---
 

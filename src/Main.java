@@ -1,17 +1,5 @@
 
 /**
- * CMPE 250 Project 1 - Nightpass Survivor Card Game
- * 
- * This skeleton provides file I/O infrastructure. Implement your game logic
- * as you wish. There are some import that is suggested to use written below. 
- * You can use them freely and create as manys classes as you want. However, 
- * you cannot import any other java.util packages with data structures, you
- * need to implement them yourself. For other imports, ask through Moodle before 
- * using.
- * 
- * TESTING YOUR SOLUTION:
- * ======================
- * 
  * Use the Python test runner for automated testing:
  * 
  * python test_runner.py              # Test all cases
@@ -36,18 +24,18 @@
  * ==================
  * 
  * project_root/
- * ├── src/                     # Your Java files (Main.java, etc.)
- * ├── testcase_inputs/         # Input test files  
- * ├── testcase_outputs/        # Expected output files
- * ├── output/                  # Generated outputs (auto-created)
- * └── test_runner.py           # Automated test runner
+ * ├── src/
+ * ├── testcase_inputs/
+ * ├── testcase_outputs/
+ * ├── output/
+ * └── test_runner.py
  * 
  * REQUIREMENTS:
  * =============
  * - Java SDK 8+ (javac, java commands)
  * - Python 3.6+ (for test runner)
  * 
- * @author CMPE250 Student (Alperen Ulu)
+ * @author Alperen Ulu
  */
 
 import java.io.*;
